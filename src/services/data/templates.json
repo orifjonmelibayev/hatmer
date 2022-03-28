@@ -1,0 +1,300 @@
+[
+  {
+    "name": "quran",
+    "title": "Quran (by juz)",
+    "description": "Quran grouped by juz",
+    "dueDate": "",
+    "createdBy": "",
+    "tasks": [
+      {
+        "name": "juz1",
+        "title": "1st Juz",
+        "order": 1,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz2",
+        "title": "2nd Juz",
+        "order": 2,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz3",
+        "title": "3rd Juz",
+        "order": 3,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz4",
+        "title": "4th Juz",
+        "order": 4,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz5",
+        "title": "5th Juz",
+        "order": 5,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz6",
+        "title": "6th Juz",
+        "order": 6,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz7",
+        "title": "7th Juz",
+        "order": 7,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz8",
+        "title": "8th Juz",
+        "order": 8,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz9",
+        "title": "9th Juz",
+        "order": 9,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz10",
+        "title": "10th Juz",
+        "order": 10,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz11",
+        "title": "11th Juz",
+        "order": 11,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz12",
+        "title": "12th Juz",
+        "order": 12,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz13",
+        "title": "13th Juz",
+        "order": 13,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz14",
+        "title": "14th Juz",
+        "order": 14,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz15",
+        "title": "15th Juz",
+        "order": 15,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz16",
+        "title": "16th Juz",
+        "order": 16,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz17",
+        "title": "17th Juz",
+        "order": 17,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz18",
+        "title": "18th Juz",
+        "order": 18,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz19",
+        "title": "19th Juz",
+        "order": 19,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz20",
+        "title": "20th Juz",
+        "order": 20,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz21",
+        "title": "21st Juz",
+        "order": 21,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz22",
+        "title": "22nd Juz",
+        "order": 22,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz23",
+        "title": "23rd Juz",
+        "order": 23,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz24",
+        "title": "24th Juz",
+        "order": 24,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz25",
+        "title": "25th Juz",
+        "order": 25,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz26",
+        "title": "26th Juz",
+        "order": 26,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz27",
+        "title": "27th Juz",
+        "order": 27,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz28",
+        "title": "28th Juz",
+        "order": 28,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz29",
+        "title": "29th Juz",
+        "order": 29,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz30",
+        "title": "30th Juz",
+        "order": 30,
+        "isComplete": false,
+        "assignedTo": null
+      }
+       ]
+  },
+  {
+    "name": "cevsen",
+    "title": "Cevsen (by juz)",
+    "description": "",
+    "dueDate": "",
+    "createdBy": "",
+    "tasks": [
+      {
+        "name": "juz1",
+        "title": "1-10 Juz",
+        "order": 1,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz2",
+        "title": "11-20 Juz",
+        "order": 2,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz3",
+        "title": "21-30 Juz",
+        "order": 3,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz4",
+        "title": "31-40 Juz",
+        "order": 4,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz5",
+        "title": "41-50 Juz",
+        "order": 5,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz6",
+        "title": "51-60 Juz",
+        "order": 6,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz7",
+        "title": "61-70 Juz",
+        "order": 7,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz8",
+        "title": "71-80 Juz",
+        "order": 8,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz9",
+        "title": "81-90 Juz",
+        "order": 9,
+        "isComplete": false,
+        "assignedTo": null
+      },
+      {
+        "name": "juz10",
+        "title": "91-10 Juz",
+        "order": 10,
+        "isComplete": false,
+        "assignedTo": null
+      }
+    ]
+  }
+]
